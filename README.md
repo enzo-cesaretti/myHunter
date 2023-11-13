@@ -12,10 +12,11 @@ Sujet
 Vous devez réaliser un petit jeu vidéo basé sur les règles de Duck Hunt.
 
 Les règles de base du my_hunter sont les suivantes :
->
+
 > - le joueur est un chasseur qui tire sur les canards.
 > - les canards doivent apparaître sur l'écran et se déplacer d'un côté à l'autre.
 > - le joueur peut cliquer dessus pour leur tirer dessus.
+
 Être capable de gérer les entrées de l'utilisateur et d'afficher des sprites animés sont des compétences clés
 quand on veut développer des jeux de base.
 
